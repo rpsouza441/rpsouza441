@@ -1,53 +1,64 @@
-# Rodrigo Pinheiro — Cloud, DevOps & Software Engineering
+# Rodrigo Pinheiro de Souza
 
-Engenheiro de Software com +14 anos em Cloud/DevOps e desenvolvimento, focado em entregar plataformas confiáveis e escaláveis. Experiência sólida em Azure/AWS, Kubernetes, Terraform, Ansible, CI/CD e observabilidade — com background em Java e Python para APIs e automações.
+🚀 **Cloud | DevOps | Infraestrutura | Java Backend**  
+🔧 Apaixonado por resolver problemas reais com tecnologia escalável, automação e código limpo.  
+📍 Curitiba, Brasil &emsp;🌐 [linkedin.com/in/rpsouza](https://linkedin.com/in/rpsouza)
 
-- Stack principal: Azure, AWS, Kubernetes, Docker, Terraform, Ansible, Linux, GitHub Actions, Python, Java.
-- Foco atual: automação de infraestrutura, plataformas de dados para finanças e APIs resilientes com observabilidade de ponta a ponta.
+---
 
-## Projetos em destaque
+## 👨‍💻 Sobre mim
 
-- dividend-analyzer (Python)
-  Analisador de dividendos voltado a métricas financeiras e screening de ações. Ênfase em coleta de dados, cálculos financeiros e estrutura modular para expansão de indicadores. Valor técnico: data ingestion, cálculo de métricas, testes e packaging Python[1].
+Sou um profissional com mais de 14 anos de experiência em tecnologia, com forte atuação em:
 
-- asset-info-api (Python/Flask, Swagger)
-  API para consultar e classificar ativos financeiros, com autenticação por token e documentação interativa via Swagger/OpenAPI. Valor técnico: design de API REST, segurança por token, documentação viva e boas práticas de versionamento[1].
+- **Infraestrutura moderna** (Linux, Windows Server, redes, firewalls)
+- **Cloud Computing** com AWS e Azure
+- **DevOps e automação** com Docker, Terraform, Ansible e CI/CD
+- **Desenvolvimento backend** com Java (Spring Boot) e Kotlin
 
-- Alerta-Comunidade (Java)
-  Serviço em Java para notificações/alertas (contexto de comunidade). Valor técnico: base Java, modularização e estruturação de serviços; oportunidade para adicionar testes, CI e containerização para nível produção[1].
+Atualmente focado em consolidar minha atuação como especialista em Cloud e DevOps, construindo projetos reais para meu portfólio.
 
-- safestic (Python)
-  Projeto em Python com foco em automação/segurança (ajustar escopo no README do repo). Valor técnico: automações e ferramentas auxiliares de segurança; oportunidade para reforçar logs, linting e integração contínua[1].
+---
 
-Sugestão: manter estes quatro pins como prioridade, revisando títulos e descrições para refletir benefícios técnicos e impacto real.
+## 🧰 Tecnologias e Ferramentas
 
-## Badges úteis
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?logo=zabbix&logoColor=white)
 
-<!-- Linguagens e ferramentas -->
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-11%2B-007396?logo=java&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask&logoColor=white)
-![Swagger](https://img.shields.io/badge/OpenAPI-Swagger-85EA2D?logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+---
 
-<!-- Estatísticas -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpsouza441&show_icons=true&theme=default&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpsouza441&layout=compact&langs_count=8)
+## 🧪 Projetos em Destaque
 
-## Contribuições
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Alerta-Comunidade](https://github.com/rpsouza441/Alerta-Comunidade) | Sistema de notificações de emergência para comunidades. | Spring Boot · RabbitMQ · Docker · MariaDB |
+| [Infra-as-Code AWS](#) *(em breve)* | Estrutura completa de provisionamento em AWS com Terraform. | Terraform · AWS · S3 · EC2 · IAM |
+| [Monitoramento com Zabbix](#) *(em breve)* | Stack de observabilidade com Prometheus, Grafana e Zabbix. | Docker Compose · Grafana · Zabbix |
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rpsouza441&theme=minimal)
-![GitHub Streak](https://streak-stats.demolab.com?user=rpsouza441&theme=default)
+> ⚠️ *Outros projetos em desenvolvimento serão adicionados em breve.*
 
-## Como trabalho
+---
 
-- Infra como código, testes e pipelines desde o início.
-- Observabilidade (logs, métricas, tracing) como parte do design.
-- Documentação pragmática (OpenAPI/Swagger, READMEs claros) e automação repetível.
+## 📊 Estatísticas GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rpsouza441&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rpsouza441&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height="150" />
+</p>
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [linkedin.com/in/rpsouza](https://linkedin.com/in/rpsouza)
+- E-mail: contatorpsouza@gmail.com
+
+---
+
+> ⚙️ *Perfil em constante evolução com foco em qualidade, consistência e entrega real de valor.*
+
